@@ -1,53 +1,19 @@
-# python
+# python cache
+data/__pycache__/
+data/util/__pycache__/
 __pycache__/
 *.py[cod]
 *.class
-*.so
-.Python
 
 # virtual environment
 venv/
-env/
-ENV/
-.venv
 
-# data files and outputs
-data/__pycache__/
-data/util/__pycache__/
-data/raw/
-data/corpus/
-data/embeddings/
-data/results/
+# deprecated folder
 deprecated/
-*.json
-*.pkl
-*.bin
-*.csv
-
-# visualizations
-*.png
-*.jpg
-*.jpeg
-*.pdf
-*.svg
-
-# notebooks
-.ipynb_checkpoints/
-*.ipynb
 
 # ide
 .vscode/
-.idea/
-*.swp
-*.swo
-*~
+
+# os files
 .DS_Store
-
-# logs
-*.log
-logs/
-
-# credentials
-.env
-config.ini
-credentials.json
+Thumbs.db

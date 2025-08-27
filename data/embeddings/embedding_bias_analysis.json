@@ -1,0 +1,739 @@
+{
+  "skipgram": {
+    "platform_similarities": [
+      {
+        "pair": [
+          "openai",
+          "anthropic"
+        ],
+        "similarity": 0.6387288069195928
+      },
+      {
+        "pair": [
+          "meta",
+          "mistral"
+        ],
+        "similarity": 0.616813082116245
+      },
+      {
+        "pair": [
+          "meta",
+          "cohere"
+        ],
+        "similarity": 0.5858498070251698
+      },
+      {
+        "pair": [
+          "mistral",
+          "cohere"
+        ],
+        "similarity": 0.5846415822534232
+      },
+      {
+        "pair": [
+          "meta",
+          "huggingface"
+        ],
+        "similarity": 0.5539833019440158
+      },
+      {
+        "pair": [
+          "anthropic",
+          "google"
+        ],
+        "similarity": 0.5471528614171591
+      },
+      {
+        "pair": [
+          "openai",
+          "google"
+        ],
+        "similarity": 0.5429297568422972
+      },
+      {
+        "pair": [
+          "openai",
+          "mistral"
+        ],
+        "similarity": 0.5340820596338263
+      },
+      {
+        "pair": [
+          "anthropic",
+          "meta"
+        ],
+        "similarity": 0.4912039214226949
+      },
+      {
+        "pair": [
+          "openai",
+          "cohere"
+        ],
+        "similarity": 0.44573670889268546
+      },
+      {
+        "pair": [
+          "anthropic",
+          "cohere"
+        ],
+        "similarity": 0.4168507085215096
+      },
+      {
+        "pair": [
+          "cohere",
+          "huggingface"
+        ],
+        "similarity": 0.41026616529927595
+      },
+      {
+        "pair": [
+          "anthropic",
+          "mistral"
+        ],
+        "similarity": 0.40471141845282915
+      },
+      {
+        "pair": [
+          "openai",
+          "meta"
+        ],
+        "similarity": 0.4022597434870242
+      },
+      {
+        "pair": [
+          "openai",
+          "stability"
+        ],
+        "similarity": 0.3879113148567196
+      },
+      {
+        "pair": [
+          "mistral",
+          "stability"
+        ],
+        "similarity": 0.37114966671643645
+      },
+      {
+        "pair": [
+          "mistral",
+          "huggingface"
+        ],
+        "similarity": 0.3707727862149854
+      },
+      {
+        "pair": [
+          "anthropic",
+          "huggingface"
+        ],
+        "similarity": 0.34703056634059787
+      },
+      {
+        "pair": [
+          "stability",
+          "cohere"
+        ],
+        "similarity": 0.32887379444611214
+      },
+      {
+        "pair": [
+          "google",
+          "meta"
+        ],
+        "similarity": 0.29364442641007654
+      },
+      {
+        "pair": [
+          "stability",
+          "huggingface"
+        ],
+        "similarity": 0.2922314669413288
+      },
+      {
+        "pair": [
+          "google",
+          "cohere"
+        ],
+        "similarity": 0.28659615120958676
+      },
+      {
+        "pair": [
+          "meta",
+          "stability"
+        ],
+        "similarity": 0.27925862082782044
+      },
+      {
+        "pair": [
+          "anthropic",
+          "stability"
+        ],
+        "similarity": 0.2779513382553004
+      },
+      {
+        "pair": [
+          "google",
+          "mistral"
+        ],
+        "similarity": 0.2617202732336378
+      },
+      {
+        "pair": [
+          "google",
+          "huggingface"
+        ],
+        "similarity": 0.24401953991878017
+      },
+      {
+        "pair": [
+          "google",
+          "stability"
+        ],
+        "similarity": 0.24175927221572394
+      },
+      {
+        "pair": [
+          "openai",
+          "huggingface"
+        ],
+        "similarity": 0.2013745428063727
+      }
+    ],
+    "nearest_neighbors": {
+      "gpt": [
+        {
+          "word": "le",
+          "similarity": 4.690623284316395
+        },
+        {
+          "word": "exam",
+          "similarity": 4.668782429760292
+        },
+        {
+          "word": "turbo",
+          "similarity": 4.629455291340742
+        },
+        {
+          "word": "gpt",
+          "similarity": 4.5312785933248145
+        },
+        {
+          "word": "bourdain",
+          "similarity": 4.509624143748322
+        },
+        {
+          "word": "codex",
+          "similarity": 4.500975911889746
+        },
+        {
+          "word": "april",
+          "similarity": 4.4001370052685935
+        },
+        {
+          "word": "la",
+          "similarity": 4.382198077476149
+        },
+        {
+          "word": "anthony",
+          "similarity": 4.351157068723725
+        },
+        {
+          "word": "que",
+          "similarity": 4.344473732342749
+        }
+      ],
+      "claude": [
+        {
+          "word": "codex",
+          "similarity": 4.99765773316953
+        },
+        {
+          "word": "ide",
+          "similarity": 4.705637935874323
+        },
+        {
+          "word": "opencode",
+          "similarity": 4.6092646563920106
+        },
+        {
+          "word": "cline",
+          "similarity": 4.560210780740667
+        },
+        {
+          "word": "terminal",
+          "similarity": 4.526007265041899
+        },
+        {
+          "word": "poe",
+          "similarity": 4.492786729082654
+        },
+        {
+          "word": "copilot",
+          "similarity": 4.45331379591694
+        },
+        {
+          "word": "workspace",
+          "similarity": 4.427313607636119
+        },
+        {
+          "word": "cursor",
+          "similarity": 4.37354726034601
+        },
+        {
+          "word": "desktop",
+          "similarity": 4.368096470918447
+        }
+      ],
+      "bard": [
+        {
+          "word": "sentient",
+          "similarity": 8.636425767553401
+        },
+        {
+          "word": "gmail",
+          "similarity": 8.403410521254187
+        },
+        {
+          "word": "aliens",
+          "similarity": 8.091414139890446
+        },
+        {
+          "word": "music",
+          "similarity": 7.787700889246034
+        },
+        {
+          "word": "gems",
+          "similarity": 7.723124005965331
+        },
+        {
+          "word": "intention",
+          "similarity": 7.700187540662099
+        },
+        {
+          "word": "gpts",
+          "similarity": 7.514015910030405
+        },
+        {
+          "word": "nova",
+          "similarity": 7.496651564240947
+        },
+        {
+          "word": "essentia",
+          "similarity": 7.469593625651164
+        },
+        {
+          "word": "computers",
+          "similarity": 7.454382168016336
+        }
+      ],
+      "llama": [
+        {
+          "word": "llama",
+          "similarity": 9.413279803452498
+        },
+        {
+          "word": "mnt",
+          "similarity": 9.199781394165177
+        },
+        {
+          "word": "-m",
+          "similarity": 8.776049450480857
+        },
+        {
+          "word": "q80",
+          "similarity": 8.708016195969092
+        },
+        {
+          "word": "--top-k",
+          "similarity": 8.617799593341473
+        },
+        {
+          "word": "70b",
+          "similarity": 8.546860625694608
+        },
+        {
+          "word": "f16",
+          "similarity": 8.338249499522815
+        },
+        {
+          "word": "-ngl",
+          "similarity": 8.267524240979553
+        },
+        {
+          "word": "llamamodelloader",
+          "similarity": 8.11334365184251
+        },
+        {
+          "word": "-c",
+          "similarity": 8.07698827568931
+        }
+      ],
+      "gemini": [
+        {
+          "word": "1206",
+          "similarity": 5.939059732229927
+        },
+        {
+          "word": "gemini",
+          "similarity": 5.709360889300028
+        },
+        {
+          "word": "codex",
+          "similarity": 5.630397904260628
+        },
+        {
+          "word": "experimental",
+          "similarity": 5.585764259609144
+        },
+        {
+          "word": "002",
+          "similarity": 5.578564298419922
+        },
+        {
+          "word": "workspace",
+          "similarity": 5.563712238286456
+        },
+        {
+          "word": "aistudio",
+          "similarity": 5.465381271068546
+        },
+        {
+          "word": "cli",
+          "similarity": 5.4260885139846735
+        },
+        {
+          "word": "pixel",
+          "similarity": 5.423508883199954
+        },
+        {
+          "word": "gmail",
+          "similarity": 5.2446698313118185
+        }
+      ],
+      "ai": [
+        {
+          "word": "collar",
+          "similarity": 3.529070371215714
+        },
+        {
+          "word": "hates",
+          "similarity": 3.4728564558507515
+        },
+        {
+          "word": "founded",
+          "similarity": 3.4230381434550727
+        },
+        {
+          "word": "argues",
+          "similarity": 3.360975386865956
+        },
+        {
+          "word": "leveraging",
+          "similarity": 3.3366736521132063
+        },
+        {
+          "word": "chollet",
+          "similarity": 3.3028062301857943
+        },
+        {
+          "word": "advancing",
+          "similarity": 3.296841702126709
+        },
+        {
+          "word": "xai",
+          "similarity": 3.282274856429939
+        },
+        {
+          "word": "develops",
+          "similarity": 3.271477656013617
+        },
+        {
+          "word": "fran",
+          "similarity": 3.267785697110083
+        }
+      ],
+      "model": [
+        {
+          "word": "gib",
+          "similarity": 5.594228042597784
+        },
+        {
+          "word": "mnt",
+          "similarity": 5.343302642690424
+        },
+        {
+          "word": "llamamodelloader",
+          "similarity": 5.272123693161273
+        },
+        {
+          "word": "gpt-oss?b",
+          "similarity": 5.212722229046308
+        },
+        {
+          "word": "---------",
+          "similarity": 5.031555172533636
+        },
+        {
+          "word": "parameter",
+          "similarity": 4.957399189211541
+        },
+        {
+          "word": "q80",
+          "similarity": 4.93950939931116
+        },
+        {
+          "word": "mtok",
+          "similarity": 4.823812835749093
+        },
+        {
+          "word": "--top-k",
+          "similarity": 4.722995797151936
+        },
+        {
+          "word": "d6000",
+          "similarity": 4.696085654177127
+        }
+      ],
+      "prompt": [
+        {
+          "word": "npast",
+          "similarity": 8.074579383199968
+        },
+        {
+          "word": "updateslots",
+          "similarity": 7.652430980145371
+        },
+        {
+          "word": "llamaperfcontextprint",
+          "similarity": 7.433512356669432
+        },
+        {
+          "word": "ms",
+          "similarity": 7.190547762118083
+        },
+        {
+          "word": "461524",
+          "similarity": 6.9180674237924915
+        },
+        {
+          "word": "eval",
+          "similarity": 6.701770022224324
+        },
+        {
+          "word": "hotkey",
+          "similarity": 6.392983625775382
+        },
+        {
+          "word": "qualcomm-builder",
+          "similarity": 6.3492100635381465
+        },
+        {
+          "word": "llamamodelloader",
+          "similarity": 5.666971410349997
+        },
+        {
+          "word": "txt",
+          "similarity": 5.631131827574845
+        }
+      ]
+    },
+    "concept_associations": {
+      "openai": {
+        "capabilities": {
+          "avg_similarity": 0.35120350817593493,
+          "max_similarity": 0.3962378689835021
+        },
+        "quality": {
+          "avg_similarity": 0.3451815561766868,
+          "max_similarity": 0.3714815630149513
+        },
+        "limitations": {
+          "avg_similarity": 0.3393310630910871,
+          "max_similarity": 0.4608440759891271
+        },
+        "comparison": {
+          "avg_similarity": 0.5001484306259261,
+          "max_similarity": 0.6496727442049298
+        }
+      },
+      "anthropic": {
+        "capabilities": {
+          "avg_similarity": 0.41897587205302306,
+          "max_similarity": 0.6139665902814244
+        },
+        "quality": {
+          "avg_similarity": 0.2511648652175519,
+          "max_similarity": 0.32577595555029654
+        },
+        "limitations": {
+          "avg_similarity": 0.2649974894207112,
+          "max_similarity": 0.31569404585999034
+        },
+        "comparison": {
+          "avg_similarity": 0.4512461708211181,
+          "max_similarity": 0.589774862699768
+        }
+      },
+      "google": {
+        "capabilities": {
+          "avg_similarity": 0.29341782153348916,
+          "max_similarity": 0.4008182481292567
+        },
+        "quality": {
+          "avg_similarity": 0.24780935906678075,
+          "max_similarity": 0.32190201001236024
+        },
+        "limitations": {
+          "avg_similarity": 0.25324327819129877,
+          "max_similarity": 0.38326081581309457
+        },
+        "comparison": {
+          "avg_similarity": 0.30386583108047105,
+          "max_similarity": 0.4076101348527779
+        }
+      },
+      "meta": {
+        "capabilities": {
+          "avg_similarity": 0.22103997276532442,
+          "max_similarity": 0.271811537288003
+        },
+        "quality": {
+          "avg_similarity": 0.1715901467893527,
+          "max_similarity": 0.2842499276708255
+        },
+        "limitations": {
+          "avg_similarity": 0.21278869483314128,
+          "max_similarity": 0.31914667121060025
+        },
+        "comparison": {
+          "avg_similarity": 0.3309094907255265,
+          "max_similarity": 0.3966737500645837
+        }
+      },
+      "mistral": {
+        "capabilities": {
+          "avg_similarity": 0.2570657757336265,
+          "max_similarity": 0.331180287542451
+        },
+        "quality": {
+          "avg_similarity": 0.18623303433792826,
+          "max_similarity": 0.26799482536555935
+        },
+        "limitations": {
+          "avg_similarity": 0.2511953944284915,
+          "max_similarity": 0.30185173306768304
+        },
+        "comparison": {
+          "avg_similarity": 0.42990425794720116,
+          "max_similarity": 0.5097144037661989
+        }
+      },
+      "stability": {
+        "capabilities": {
+          "avg_similarity": 0.21835374989219508,
+          "max_similarity": 0.29926820971953816
+        },
+        "quality": {
+          "avg_similarity": 0.1391908468571577,
+          "max_similarity": 0.14984900819098398
+        },
+        "limitations": {
+          "avg_similarity": 0.11366973850907507,
+          "max_similarity": 0.1364801012424623
+        },
+        "comparison": {
+          "avg_similarity": 0.2501142005220264,
+          "max_similarity": 0.32199190568848274
+        }
+      },
+      "cohere": {
+        "capabilities": {
+          "avg_similarity": 0.1724359764203732,
+          "max_similarity": 0.21372301007639727
+        },
+        "quality": {
+          "avg_similarity": 0.12772312795422053,
+          "max_similarity": 0.2486198126514435
+        },
+        "limitations": {
+          "avg_similarity": 0.21225569157048985,
+          "max_similarity": 0.25741494085159333
+        },
+        "comparison": {
+          "avg_similarity": 0.32518499623412733,
+          "max_similarity": 0.41619339014336637
+        }
+      },
+      "huggingface": {
+        "capabilities": {
+          "avg_similarity": 0.183685072022229,
+          "max_similarity": 0.23257211002834968
+        },
+        "quality": {
+          "avg_similarity": 0.11493270546008585,
+          "max_similarity": 0.18472288532327508
+        },
+        "limitations": {
+          "avg_similarity": 0.12618134150881674,
+          "max_similarity": 0.21850491388490487
+        },
+        "comparison": {
+          "avg_similarity": 0.2120943482848941,
+          "max_similarity": 0.30970219241405034
+        }
+      }
+    },
+    "platform_cohesion": {
+      "openai": {
+        "terms": [
+          "gpt",
+          "chatgpt",
+          "openai",
+          "gpt4",
+          "gpt3"
+        ],
+        "cohesion_score": 0.4650915810024462,
+        "std_dev": 0.11327833212517761
+      },
+      "anthropic": {
+        "terms": [
+          "claude",
+          "anthropic"
+        ],
+        "cohesion_score": 0.48031289960231077,
+        "std_dev": 0.0
+      },
+      "google": {
+        "terms": [
+          "bard",
+          "gemini"
+        ],
+        "cohesion_score": 0.3516873094667924,
+        "std_dev": 0.0
+      },
+      "meta": {
+        "terms": [
+          "llama",
+          "meta"
+        ],
+        "cohesion_score": 0.4363953072709904,
+        "std_dev": 0.0
+      },
+      "mistral": {
+        "terms": [
+          "mistral",
+          "mixtral"
+        ],
+        "cohesion_score": 0.4838124057233332,
+        "std_dev": 0.0
+      },
+      "stability": {
+        "terms": [
+          "stable",
+          "diffusion"
+        ],
+        "cohesion_score": 0.7776141396024148,
+        "std_dev": 0.0
+      }
+    }
+  }
+}

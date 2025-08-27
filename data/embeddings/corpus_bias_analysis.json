@@ -1,0 +1,1038 @@
+{
+  "platform_bias": {
+    "platforms": {
+      "reddit": {
+        "terms": [
+          [
+            "reddit",
+            330
+          ],
+          [
+            "subreddit",
+            60
+          ],
+          [
+            "upvote",
+            12
+          ],
+          [
+            "downvote",
+            11
+          ],
+          [
+            "karma",
+            12
+          ],
+          [
+            "redditor",
+            13
+          ],
+          [
+            "mod",
+            15
+          ],
+          [
+            "til",
+            19
+          ]
+        ],
+        "total_frequency": 472,
+        "term_count": 8
+      },
+      "twitter": {
+        "terms": [
+          [
+            "tweet",
+            24
+          ],
+          [
+            "twitter",
+            72
+          ],
+          [
+            "timeline",
+            27
+          ],
+          [
+            "viral",
+            10
+          ],
+          [
+            "thread",
+            204
+          ],
+          [
+            "quote",
+            56
+          ],
+          [
+            "mention",
+            187
+          ],
+          [
+            "dm",
+            41
+          ]
+        ],
+        "total_frequency": 621,
+        "term_count": 8
+      },
+      "facebook": {
+        "terms": [
+          [
+            "facebook",
+            101
+          ],
+          [
+            "like",
+            7471
+          ],
+          [
+            "share",
+            358
+          ],
+          [
+            "timeline",
+            27
+          ],
+          [
+            "status",
+            62
+          ],
+          [
+            "friend",
+            233
+          ],
+          [
+            "wall",
+            99
+          ],
+          [
+            "react",
+            84
+          ],
+          [
+            "profile",
+            65
+          ]
+        ],
+        "total_frequency": 8500,
+        "term_count": 9
+      },
+      "linkedin": {
+        "terms": [
+          [
+            "linkedin",
+            21
+          ],
+          [
+            "connection",
+            118
+          ],
+          [
+            "skill",
+            86
+          ],
+          [
+            "profile",
+            65
+          ],
+          [
+            "recommendation",
+            16
+          ],
+          [
+            "network",
+            137
+          ]
+        ],
+        "total_frequency": 443,
+        "term_count": 6
+      },
+      "discord": {
+        "terms": [
+          [
+            "discord",
+            39
+          ],
+          [
+            "server",
+            337
+          ],
+          [
+            "channel",
+            62
+          ],
+          [
+            "bot",
+            158
+          ],
+          [
+            "voice",
+            438
+          ],
+          [
+            "dm",
+            41
+          ]
+        ],
+        "total_frequency": 1075,
+        "term_count": 6
+      },
+      "github": {
+        "terms": [
+          [
+            "github",
+            192
+          ],
+          [
+            "repository",
+            30
+          ],
+          [
+            "commit",
+            60
+          ],
+          [
+            "pull",
+            103
+          ],
+          [
+            "request",
+            191
+          ],
+          [
+            "fork",
+            38
+          ],
+          [
+            "branch",
+            31
+          ],
+          [
+            "merge",
+            31
+          ],
+          [
+            "issue",
+            673
+          ],
+          [
+            "star",
+            29
+          ],
+          [
+            "clone",
+            29
+          ],
+          [
+            "push",
+            165
+          ]
+        ],
+        "total_frequency": 1572,
+        "term_count": 12
+      },
+      "stackoverflow": {
+        "terms": [
+          [
+            "stackoverflow",
+            11
+          ],
+          [
+            "answer",
+            686
+          ],
+          [
+            "question",
+            730
+          ],
+          [
+            "upvote",
+            12
+          ],
+          [
+            "accepted",
+            26
+          ],
+          [
+            "reputation",
+            31
+          ],
+          [
+            "duplicate",
+            13
+          ]
+        ],
+        "total_frequency": 1509,
+        "term_count": 7
+      }
+    },
+    "total_platform_frequency": 14192,
+    "dominant_platform": "facebook"
+  },
+  "ai_company_bias": {
+    "companies": {
+      "openai": {
+        "terms": [
+          [
+            "openai",
+            1165
+          ],
+          [
+            "chatgpt",
+            1476
+          ],
+          [
+            "gpt",
+            1053
+          ],
+          [
+            "gpt3",
+            20
+          ],
+          [
+            "gpt4",
+            101
+          ],
+          [
+            "dalle",
+            11
+          ],
+          [
+            "codex",
+            94
+          ]
+        ],
+        "total_frequency": 3920,
+        "term_count": 7
+      },
+      "anthropic": {
+        "terms": [
+          [
+            "anthropic",
+            576
+          ],
+          [
+            "claude",
+            3292
+          ],
+          [
+            "constitutional",
+            17
+          ]
+        ],
+        "total_frequency": 3885,
+        "term_count": 3
+      },
+      "google": {
+        "terms": [
+          [
+            "bard",
+            28
+          ],
+          [
+            "gemini",
+            1691
+          ],
+          [
+            "deepmind",
+            41
+          ]
+        ],
+        "total_frequency": 1760,
+        "term_count": 3
+      },
+      "meta": {
+        "terms": [
+          [
+            "llama",
+            594
+          ]
+        ],
+        "total_frequency": 594,
+        "term_count": 1
+      },
+      "microsoft": {
+        "terms": [
+          [
+            "bing",
+            20
+          ],
+          [
+            "copilot",
+            174
+          ],
+          [
+            "azure",
+            21
+          ]
+        ],
+        "total_frequency": 215,
+        "term_count": 3
+      },
+      "stability": {
+        "terms": [
+          [
+            "stability",
+            21
+          ],
+          [
+            "sdxl",
+            11
+          ]
+        ],
+        "total_frequency": 32,
+        "term_count": 2
+      },
+      "huggingface": {
+        "terms": [
+          [
+            "huggingface",
+            61
+          ],
+          [
+            "transformers",
+            67
+          ],
+          [
+            "datasets",
+            65
+          ]
+        ],
+        "total_frequency": 193,
+        "term_count": 3
+      }
+    },
+    "total_ai_company_frequency": 10599,
+    "ai_company_present": true
+  },
+  "technical_bias": {
+    "categories": {
+      "models": {
+        "terms": [
+          [
+            "model",
+            4520
+          ],
+          [
+            "neural",
+            97
+          ],
+          [
+            "network",
+            137
+          ],
+          [
+            "deep",
+            333
+          ],
+          [
+            "learning",
+            431
+          ],
+          [
+            "training",
+            886
+          ],
+          [
+            "inference",
+            401
+          ],
+          [
+            "architecture",
+            280
+          ],
+          [
+            "parameter",
+            95
+          ],
+          [
+            "weight",
+            121
+          ]
+        ],
+        "total_frequency": 7442,
+        "term_count": 11
+      },
+      "techniques": {
+        "terms": [
+          [
+            "embedding",
+            56
+          ],
+          [
+            "vector",
+            75
+          ],
+          [
+            "transformer",
+            74
+          ],
+          [
+            "attention",
+            253
+          ]
+        ],
+        "total_frequency": 458,
+        "term_count": 4
+      },
+      "optimization": {
+        "terms": [
+          [
+            "gradient",
+            19
+          ],
+          [
+            "loss",
+            152
+          ]
+        ],
+        "total_frequency": 171,
+        "term_count": 2
+      },
+      "data": {
+        "terms": [
+          [
+            "dataset",
+            105
+          ],
+          [
+            "corpus",
+            32
+          ],
+          [
+            "feature",
+            372
+          ],
+          [
+            "batch",
+            48
+          ],
+          [
+            "validation",
+            62
+          ],
+          [
+            "test",
+            679
+          ],
+          [
+            "train",
+            343
+          ]
+        ],
+        "total_frequency": 1641,
+        "term_count": 7
+      },
+      "frameworks": {
+        "terms": [
+          [
+            "pytorch",
+            38
+          ]
+        ],
+        "total_frequency": 38,
+        "term_count": 1
+      },
+      "languages": {
+        "terms": [
+          [
+            "python",
+            230
+          ],
+          [
+            "javascript",
+            19
+          ],
+          [
+            "java",
+            20
+          ],
+          [
+            "cpp",
+            212
+          ],
+          [
+            "rust",
+            17
+          ],
+          [
+            "go",
+            1435
+          ],
+          [
+            "typescript",
+            20
+          ]
+        ],
+        "total_frequency": 1953,
+        "term_count": 7
+      }
+    },
+    "total_technical_frequency": 11703,
+    "technical_density": 0.009751077967796363
+  },
+  "domain_bias": {
+    "domains": {
+      "academic": {
+        "terms": [
+          [
+            "paper",
+            293
+          ],
+          [
+            "research",
+            642
+          ],
+          [
+            "study",
+            104
+          ],
+          [
+            "professor",
+            16
+          ],
+          [
+            "university",
+            41
+          ],
+          [
+            "journal",
+            21
+          ],
+          [
+            "citation",
+            11
+          ],
+          [
+            "peer",
+            16
+          ],
+          [
+            "review",
+            218
+          ],
+          [
+            "thesis",
+            15
+          ]
+        ],
+        "total_frequency": 1377,
+        "term_count": 10
+      },
+      "business": {
+        "terms": [
+          [
+            "company",
+            709
+          ],
+          [
+            "business",
+            406
+          ],
+          [
+            "market",
+            403
+          ],
+          [
+            "strategy",
+            92
+          ],
+          [
+            "revenue",
+            74
+          ],
+          [
+            "profit",
+            163
+          ],
+          [
+            "investment",
+            117
+          ],
+          [
+            "startup",
+            44
+          ],
+          [
+            "enterprise",
+            151
+          ],
+          [
+            "customer",
+            110
+          ]
+        ],
+        "total_frequency": 2269,
+        "term_count": 10
+      },
+      "medical": {
+        "terms": [
+          [
+            "patient",
+            69
+          ],
+          [
+            "doctor",
+            86
+          ],
+          [
+            "hospital",
+            29
+          ],
+          [
+            "treatment",
+            33
+          ],
+          [
+            "diagnosis",
+            33
+          ],
+          [
+            "medicine",
+            77
+          ],
+          [
+            "health",
+            145
+          ],
+          [
+            "clinical",
+            23
+          ],
+          [
+            "therapy",
+            176
+          ]
+        ],
+        "total_frequency": 671,
+        "term_count": 9
+      },
+      "legal": {
+        "terms": [
+          [
+            "law",
+            205
+          ],
+          [
+            "legal",
+            133
+          ],
+          [
+            "court",
+            65
+          ],
+          [
+            "judge",
+            63
+          ],
+          [
+            "lawyer",
+            49
+          ],
+          [
+            "case",
+            835
+          ],
+          [
+            "trial",
+            35
+          ],
+          [
+            "justice",
+            12
+          ]
+        ],
+        "total_frequency": 1397,
+        "term_count": 8
+      },
+      "news": {
+        "terms": [
+          [
+            "article",
+            218
+          ],
+          [
+            "headline",
+            18
+          ],
+          [
+            "breaking",
+            87
+          ],
+          [
+            "story",
+            292
+          ],
+          [
+            "source",
+            712
+          ],
+          [
+            "press",
+            69
+          ],
+          [
+            "media",
+            168
+          ]
+        ],
+        "total_frequency": 1564,
+        "term_count": 7
+      }
+    },
+    "dominant_domain": "business",
+    "domain_diversity": 5
+  },
+  "sentiment_bias": {
+    "sentiments": {
+      "positive": {
+        "terms": [
+          [
+            "good",
+            2573
+          ],
+          [
+            "great",
+            948
+          ],
+          [
+            "excellent",
+            84
+          ],
+          [
+            "amazing",
+            232
+          ],
+          [
+            "wonderful",
+            25
+          ],
+          [
+            "best",
+            1055
+          ],
+          [
+            "perfect",
+            245
+          ],
+          [
+            "love",
+            491
+          ],
+          [
+            "awesome",
+            126
+          ],
+          [
+            "fantastic",
+            40
+          ]
+        ],
+        "total_frequency": 5819,
+        "term_count": 10
+      },
+      "negative": {
+        "terms": [
+          [
+            "bad",
+            821
+          ],
+          [
+            "terrible",
+            102
+          ],
+          [
+            "awful",
+            64
+          ],
+          [
+            "worst",
+            117
+          ],
+          [
+            "hate",
+            200
+          ],
+          [
+            "horrible",
+            38
+          ],
+          [
+            "poor",
+            146
+          ],
+          [
+            "fail",
+            127
+          ],
+          [
+            "wrong",
+            732
+          ],
+          [
+            "disappointing",
+            21
+          ]
+        ],
+        "total_frequency": 2368,
+        "term_count": 10
+      },
+      "neutral": {
+        "terms": [
+          [
+            "okay",
+            173
+          ],
+          [
+            "average",
+            212
+          ],
+          [
+            "normal",
+            210
+          ],
+          [
+            "regular",
+            136
+          ],
+          [
+            "standard",
+            159
+          ],
+          [
+            "typical",
+            62
+          ],
+          [
+            "common",
+            210
+          ],
+          [
+            "usual",
+            44
+          ]
+        ],
+        "total_frequency": 1206,
+        "term_count": 8
+      }
+    },
+    "sentiment_ratio": 0.7107609625015268,
+    "sentiment_balance": "positive"
+  },
+  "frequency_distribution": {
+    "frequency_stats": {
+      "mean": 159.78897616828652,
+      "median": 28.0,
+      "std": 835.7127537340357,
+      "min": 9,
+      "max": 24649
+    },
+    "frequency_percentiles": {
+      "25%": 15.0,
+      "50%": 28.0,
+      "75%": 74.0,
+      "90%": 226.0,
+      "95%": 497.5,
+      "99%": 2534.9999999999927
+    },
+    "doc_frequency_percentiles": {
+      "25%": 14.0,
+      "50%": 26.0,
+      "75%": 66.0,
+      "90%": 203.0,
+      "95%": 437.5,
+      "99%": 2228.6999999999844
+    },
+    "high_frequency_words": [
+      "at",
+      "same",
+      "time",
+      "though",
+      "these",
+      "get",
+      "because",
+      "you're",
+      "also",
+      "training",
+      "ai",
+      "so",
+      "make",
+      "less",
+      "over",
+      "could",
+      "start",
+      "with",
+      "like",
+      "few"
+    ],
+    "high_doc_frequency_words": [
+      "in",
+      "of",
+      "that",
+      "is",
+      "for",
+      "you"
+    ],
+    "frequency_skewness": 16.658347715178163
+  },
+  "vocabulary_metrics": {
+    "vocabulary_size": 7339,
+    "total_tokens": 1200175,
+    "type_token_ratio": 0.0061149415710208925,
+    "hapax_legomena": 0,
+    "hapax_ratio": 0.0,
+    "vocabulary_richness": 1.0,
+    "vocabulary_growth_samples": [
+      [
+        1,
+        24649
+      ],
+      [
+        101,
+        546183
+      ],
+      [
+        201,
+        670306
+      ],
+      [
+        301,
+        744843
+      ],
+      [
+        401,
+        798372
+      ],
+      [
+        501,
+        839127
+      ],
+      [
+        601,
+        871609
+      ],
+      [
+        701,
+        898585
+      ],
+      [
+        801,
+        921156
+      ],
+      [
+        901,
+        940700
+      ]
+    ]
+  },
+  "overall_scores": {
+    "platform_bias_score": 0.7630467366126176,
+    "ai_ml_bias_score": 0.3678975337239406,
+    "domain_diversity_score": 1.0,
+    "sentiment_balance_score": 0.5784780749969465,
+    "vocabulary_richness_score": 1.0,
+    "overall_bias_level": "high"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "processing_date": "2025-08-27T11:12:23.782641",
+  "configuration": {
+    "raw_data_dir": "raw",
+    "output_dir": "corpus"
+  },
+  "statistics": {
+    "files_processed": [
+      {
+        "file": "artificial_final_255745words_4944comments.json",
+        "original_count": 4944,
+        "cleaned_count": 4944
+      },
+      {
+        "file": "Bard_final_83323words_1973comments.json",
+        "original_count": 1973,
+        "cleaned_count": 1972
+      },
+      {
+        "file": "ChatGPT_final_312913words_6456comments.json",
+        "original_count": 6456,
+        "cleaned_count": 6456
+      },
+      {
+        "file": "ClaudeAI_final_400364words_7861comments.json",
+        "original_count": 7861,
+        "cleaned_count": 7861
+      },
+      {
+        "file": "GoogleGeminiAI_final_45671words_857comments.json",
+        "original_count": 857,
+        "cleaned_count": 857
+      },
+      {
+        "file": "LocalLLaMA_final_431366words_9424comments.json",
+        "original_count": 9424,
+        "cleaned_count": 9422
+      }
+    ],
+    "total_raw_texts": 31512,
+    "total_cleaned_texts": 31505,
+    "vocabulary_size": 7511,
+    "total_words": 1200175
+  },
+  "validation": {
+    "total_documents": 31505,
+    "vocabulary_size": 7511,
+    "total_tokens": 1200175,
+    "avg_doc_length": 38.094746865576894,
+    "remaining_artifacts": [],
+    "artifact_count": 0,
+    "top_content_words": [
+      [
+        "not",
+        10405
+      ],
+      [
+        "if",
+        8340
+      ],
+      [
+        "can",
+        8154
+      ],
+      [
+        "as",
+        8113
+      ],
+      [
+        "just",
+        7890
+      ],
+      [
+        "like",
+        7471
+      ],
+      [
+        "so",
+        6644
+      ],
+      [
+        "it's",
+        6478
+      ],
+      [
+        "what",
+        6382
+      ],
+      [
+        "my",
+        6302
+      ],
+      [
+        "ai",
+        5600
+      ],
+      [
+        "more",
+        5357
+      ],
+      [
+        "use",
+        5058
+      ],
+      [
+        "all",
+        4970
+      ],
+      [
+        "your",
+        4751
+      ],
+      [
+        "me",
+        4695
+      ],
+      [
+        "how",
+        4692
+      ],
+      [
+        "people",
+        4616
+      ],
+      [
+        "model",
+        4520
+      ],
+      [
+        "when",
+        4017
+      ]
+    ],
+    "hapax_legomena": 0,
+    "type_token_ratio": 0.006258254004624326
+  },
+  "processing_steps": [
+    "1. Load raw JSON files",
+    "2. Initial text cleaning (URLs, code, markdown)",
+    "3. Tokenization and token cleaning",
+    "4. Vocabulary filtering (frequency, document frequency)",
+    "5. Document filtering with final vocabulary",
+    "6. Quality validation"
+  ]
+}

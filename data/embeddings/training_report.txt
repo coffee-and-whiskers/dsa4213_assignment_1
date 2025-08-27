@@ -1,0 +1,27 @@
+======================================================================
+WORD EMBEDDING TRAINING REPORT
+======================================================================
+
+DATA FLOW:
+----------------------------------------
+1. reddit_scraper.py to raw/*.json
+2. prepare_corpus.py to corpus/*.txt
+3. train_embeddings.py to embeddings/*
+
+CONFIGURATION
+----------------------------------------
+Corpus: corpus/corpus.txt
+Output directory: embeddings
+
+TRAINING DATA STATISTICS
+----------------------------------------
+Documents: 31,374
+Vocabulary size: 7,339
+Total tokens: 703,477
+
+MODELS TRAINED
+----------------------------------------
+Done: PPMI_SVD
+
+======================================================================
+Training pipeline complete!
